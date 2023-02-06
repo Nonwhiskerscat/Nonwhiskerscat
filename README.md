@@ -79,6 +79,59 @@
 ## Coding Style
 
 ### 코딩에도 고양이는 안고 가요!
+
+
+ ```CSS
+@mixin responsive($break) { // 지원 최소 크기 390px
+    @if $break == mobile-cat {
+        @media screen and (min-width: $break-mobile) {
+            @content;
+        }
+    }
+
+    @else if $break == six-cat {  //중단점 600px
+        @media screen and (min-width: $break-600) {
+            @content;
+        }
+    }
+
+    @else if $break == semi-cat { //중단점 770px
+        @media screen and (min-width:$break-semiscreen) {
+            @content;
+        }
+    }
+
+
+    @else if $break == pc-cat { //중단점 1500px
+        @media screen and (min-width:$break-pc) {
+            @content;
+        }
+    }
+}
+ ```
+ <b>코드블럭 1.1</b> Nyan Baseball 프로젝트 중 모바일, 태블릿, 데스크탑 반응형 mixin 
+
+ ```JavaScript
+ function mk_gauge_ani(cat, kitty) {
+    cat.animate([
+        {
+            strokeDashoffset: `calc(${svg_kitty(w_width)}*0.8*${Math.PI})`
+        },
+        {
+            strokeDashoffset: `calc(${svg_kitty(w_width)}*0.8*${Math.PI}*${1-(kitty.prof*0.01)})`
+        }
+    ],
+    {
+        duration: 3000,
+        fill: 'forwards'
+    }
+    )
+}
+ ```
+ <b>코드블럭 1.2</b> Kidcat Nyantopia 프로젝트 중 svg 게이지 애니메이션 
+ 
+ SASS 코딩에서 중단점을 잡을 때도, 자바스크립트 코딩에서 함수의 매개변수를 설정할 때도, 고양이 이름은 빼 놓지 않습니다.
+ <hr>
 ### 제 사전에 a링크는 없어요!
 ### 제이쿼리보다 자바스크립트를 선호해요
 ### 플러그인보다 손으로 코딩하는걸 좋아해요
