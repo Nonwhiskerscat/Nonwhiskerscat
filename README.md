@@ -4,7 +4,7 @@
 
 안녕하십니까, 저의 페이지에 방문하신 것을 진심으로 환영합니다.<br>저는 웹 디자이너, 웹 퍼블리셔, 프론트 엔드 개발자를 넘어 백엔드 개발까지, 풀스택 개발자의 꿈을 꾸며 매일 발전하고 있는 개발자 김서용입니다. 지금부터 저에 대해 간략히 설명하겠습니다.
 
-## GNB
+## Contents
 - [About Me](#about-me)
   - [기본 정보](#기본-정보)
   - [학력](#학력)
@@ -39,43 +39,192 @@
 - [Contact Me](#contact-me)
 
 ## About Me
-
 ### 기본 정보
-이름: 김서용<br>
-생년월일: 1997.09.09<br>
-이메일: nonwhiskerscat@gmail.com<br>
-휴대폰: +82)10-9084-9222(장난 전화 시 경찰서 견학 + 관람료는 발신자 부담, No exceptions for Foreigners!)
+
+<div align="center">
+<table>
+  <tr>
+    <td rowspan="5">
+      <img width= '250px', src="https://user-images.githubusercontent.com/114633489/217235975-ccb70f00-ffed-4833-a4cf-7595f3dbd783.png">
+    </td>
+    <td align="center">이름</td>
+    <td>김서용</td>
+  </tr>
+  <tr>
+    <td align="center">생년월일</td>
+    <td>1997.09.09</td>
+  </tr>
+  <tr>
+    <td align="center">이메일</td>
+    <td>nonwhiskerscat@gmail.com</td>  
+  </tr>
+  <tr>
+    <td align="center">휴대폰</td>
+    <td>+82)10-9084-9222<br>(장난 전화 시 경찰서 견학 + 관람료는 발신자 부담, No exceptions for Foreigners!)</td> 
+  </tr>
+  <tr>
+    <td align="center">MBTI</td>
+    <td>ISFP(인간고양이형 :cat2::cat2::cat2::cat2::cat2:)</td> 
+  </tr>
+  <tr>
+    <td align="center">프로필 사진</td>
+    <td align="center">좋아하는 것</td>
+    <td>고양이, 자바스크립트 코딩, 요아소비, 나나오아카리, 날치알</td> 
+  </tr>
+
+</table>
+</div>
+
 
 ### 학력
-2016.02 ~ 2022.08 아주대학교 미디어학과 졸업(그것도 심화 과정!!)<br>
-2022.08 ~ 2023.01 영등포 방송정보국제교육원 UI/UX기반웹퍼블리싱&프론트엔드 과정 수료
+> <h3>:school:&nbsp&nbsp&nbsp2016.02 ~ 2022.08</h3> 아주대학교 미디어학과 졸업(그것도 심화 과정!!)<br>
+> <h3>:office:&nbsp&nbsp&nbsp2022.08 ~ 2023.01</h3> 영등포 방송정보국제교육원 UI/UX기반웹퍼블리싱&프론트엔드 과정 수료<br>
+
 
 ### 자격증
 #### 그래픽 관련
-2021.02 GTQ 포토샵 1급<br>
-2021.02 GTQi 일러스트레이터 1급(국가공인 첫 특별시험)<br>
-2021.03 컬러리스트 기사(필기 합격, 실기 두 번 불합격 ㅡㅡ)<br>
-2021.12 GTQid 인디자인 1급<br>
+
+> <h3>:bridge_at_night:&nbsp&nbsp&nbsp2021.02.10</h3> GTQ 포토샵 1급<br>
+> <h3>:art:&nbsp&nbsp&nbsp2021.02.10</h3> GTQi 일러스트레이터 1급<br>
+> <h3>:notebook:&nbsp&nbsp&nbsp2021.12.17</h3> GTQid 인디자인 1급<br>
 
 #### 코딩 관련
-2023.XX 웹디자인 기능사(접수 기한을 놓쳤다고 한다...)
+> <h3>:computer:&nbsp&nbsp&nbsp2023.??.??</h3> 2023.XX 웹디자인 기능사(접수 기한을 놓쳤다고 한다...)<br>
+> <h3>:pager:&nbsp&nbsp&nbsp2023.??.??</h3> 2024.XX 정보처리 기사(취업 후 차차 공부할 예정)<br>
 
 #### 그 외
-2021.12 한자교육진흥회 한자 2급(그래픽 기술과는 1도 관련 없지만 그냥 자랑하려고 적은거 ㅎㅎ...) 
+> <h3>:u6708:&nbsp&nbsp&nbsp2021.12.16</h3> 한자교육실력평가원(구 진흥회) 한자 2급<br>
 
 ### 수상 경력
-2022.01.30 영등포 방송정보국제교육원 UI/UX기반웹퍼블리싱&프론트엔드 과정 성적우수자
+> <h3>:trophy:&nbsp&nbsp&nbsp2022.01.30</h3> 영등포 방송정보국제교육원 UI/UX기반웹퍼블리싱&프론트엔드 과정 성적우수자<br>
 
 ## Design Style
 
 ### 고양이 빠지면 섭섭해
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/114633489/217229668-cb18c7bb-1989-4013-8ea5-e20212c9dba9.png">
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/114633489/217229822-884482ef-9b4b-4669-9a4c-3a6628ad9d0d.png">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center"><b>이미지 1.1</b> Kidcat Nyantopia 중 Projects 일부</div>
+    </td>
+    <td>
+      <div align="center"><b>이미지 1.2</b> Nyan Baseball 중 게임 시작 화면</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/114633489/217231899-d780b2b3-57ee-4b06-b79b-2366d57ea80a.png">
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/114633489/217231974-70717a8d-0cb7-406f-965a-76b535257491.png">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center"><b>이미지 1.3</b> Kidcat 5X5 Game 중 메인 화면</div>
+    </td>
+    <td>
+      <div align="center"><b>이미지 1.4</b> To Do List 메인 화면</div>
+    </td>
+  </tr>
+</table>
+</div>
+
 "제 손을 거친 이상, 디자인에 있어 무조건 고양이가 빠질 수 없습니다." 
 개인 프로젝트를 제외한 모든 포트폴리오에는 대부분 고양이 캐릭터를 모티브로 하였습니다. 고양이는 무조건 옳다!, 고양이 앞에서는 무슨 이유가 필요하겠는가? 고양이는 다 용서가 된다!
 
+ <hr>
+
 ### 사진빨 디자인은 이제 그만
+
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/114633489/217233539-4ec8902a-1e98-44de-a3ab-9aafe511fed4.png">
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/114633489/217234096-ae6ac18e-1e19-4624-a6bd-7ed51ad79802.png">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center"><b>이미지 2.1</b> Kidcat Nyantopia 중 인트로 섹션</div>
+    </td>
+    <td>
+      <div align="center"><b>이미지 2.2</b> Kidcat Nyantopia 중 About Me 섹션</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/114633489/217234108-f72f6395-e8a8-476c-93d2-c620efbe2165.png">
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/114633489/217234117-60bdc9cf-a6f3-47df-b345-baaa2e8976d7.png">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center"><b>이미지 2.3</b> Kidcat Nyantopia 중 Contact Me 섹션</div>
+    </td>
+    <td>
+      <div align="center"><b>이미지 2.4</b> Kidcat Nyantopia 중 Footer 부분</div>
+    </td>
+  </tr>
+</table>
+</div>
+
 퀄리티가 높은 사진은 프로젝트의 질을 한층 더 높여줍니다. 하지만 과도한 사진 사용은 포트폴리오의 건강(?) 상당한 해를 끼칠 수 있기 때문에 필자는 사진 사용을 꺼려합니다. 그리고 사진 쓰면 랜딩 시간이 길어져... 그래서 짜증나!!
 
+<hr>
+
 ### 폰트 및 칼라는 최소한으로
+
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/114633489/217240808-8020a103-7353-4477-a5a3-6afedc4c9cf3.png">
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/114633489/217241658-7f9aad46-e785-48ee-8bae-ab0cc4518a6b.png">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center"><b>이미지 3.1</b> Kidcat Nyantopia 중 My Specs 섹션</div>
+    </td>
+    <td>
+      <div align="center"><b>이미지 3.2</b> 고양이 보호협회 중 인트로 섹션</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/114633489/217240848-9c104c74-04aa-47cb-bee7-d81c74aa5bf8.png">
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/114633489/217240855-5bd75288-8787-4fcc-990c-b382e5b5957c.png">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center"><b>이미지 3.3</b> 페어몬트 호텔 중 페어몬트 룸 페이지 일부</div>
+    </td>
+    <td>
+      <div align="center"><b>이미지 3.4</b> Nyan Diamond 중 장바구니 섹션</div>
+    </td>
+  </tr>
+</table>
+</div>
+
 조별 프로젝트를 제외한 모든 포트폴리오의 폰트 및 색상은 2가지 이하로 선정한 이후 디자인을 하여 전체적인 일관성을 높였습니다. 폰트, 색상이 많으면 근본도 없어지고, 통일성도 다소 떨어지지만 가장 치명적인 단점은... 코딩할 때 디게 힘들어... 조별 프로젝트 하면서 느낀건데, 색상 코드 외우느라 머리가 화산 처럼 터지는 줄 알았어...
 
 ## Coding Style
@@ -151,7 +300,7 @@ function go_Fit() {
  ```
  
  <div align="center"><b>코드블럭 2</b> Fairmont Ambassador Hotel 프로젝트 중 location href를 사용한 부분</div><br>
- a태그는 링크와 링크 사이를 연결해 주는 가장 중요한 매개체 역할을 합니다. 하지만 일반 태그에 비해 독단적인 스타일을 지니고 있어 일일히 초기화를 시켜줘야 하는 난잡함과 크로스 브라우징에 있어 제 멋대로 스타일이 적용되는 불편함 떄문에 저는 a태그를 쓰지 않는 편입니다. ~~a태그는 초보자들이나 쓰는...~~
+ a태그는 링크와 링크 사이를 연결해 주는 가장 중요한 매개체 역할을 합니다. 하지만 일반 태그에 비해 독단적인 스타일을 지니고 있어 일일히 초기화를 시켜줘야 하는 난잡함과 크로스 브라우징에 있어 제 멋대로 스타일이 적용되는 불편함 떄문에 저는 a태그를 쓰지 않는 편입니다.
  <hr>
 
 ### 제이쿼리보다 바닐라 자바스크립트를 선호해요
