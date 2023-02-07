@@ -485,8 +485,6 @@ function pj_kitty_ani(neko) {
 
 ### 페이지 리뉴얼
 
-<hr>
-
 #### 고양이 보호협회
 <div align="center">
   <img src="https://user-images.githubusercontent.com/114633489/217247157-47e517bb-3068-440e-87e6-b85b3e8820b3.png">
@@ -556,7 +554,7 @@ function pj_kitty_ani(neko) {
   </tr>
   <tr>
       <td>페이지 주소</td>
-      <td><a href="http://kidcatnyantopia.cafe24.com/works/pages/fairmontHotel/index.html">바로가기</a></td>
+      <td><a href="http://kidcatnyantopia.net/works/pages/fairmontHotel/index.html">바로가기</a></td>
       <td>GitHub 주소</td>
       <td><a href="https://github.com/Nonwhiskerscat/Fairmont_Ambassador_Seoul">바로가기</a></td>
   </tr>
@@ -577,21 +575,146 @@ function pj_kitty_ani(neko) {
 </table>
 </div>
 
+여느 호텔 사이트와 달리 레트로하고 이용하기 힘든 [기존 호텔 사이트](https://fairmont-seoul.com/)에 디자인적인 요소와 인터페이스적인 요소를 한 층 업그레이드 시켜 새로운 사이트로 리뉴얼 하였고 로그인, 정보수정, 회원가입, 고객센터 등과 같은 부수적인 기능들을 추가하였습니다.
+
+<hr>
+
 ### 자바스크립트
 #### Nyan Baseball
 <div align="center">
   <img src="https://user-images.githubusercontent.com/114633489/217247164-1e0550de-5796-4f7e-b5c1-3ce45bc7b0c1.png">
 </div>
+<div align="center">
+<table>
+  <tr>
+    <td>프로젝트 명</td>
+    <td colspan="3">바닐라 자바스크립트를 활용한 숫자야구 게임 제작</td>
+  </tr>
+  <tr>
+    <td>작업 인원</td>
+    <td>1명</td>
+    <td>기여도</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+      <td>기간</td>
+      <td>2022.12.01 ~ 2022.12.12</td>
+      <td>지원 기기</td>
+      <td>320px 이상 기기 모두 지원</td>
+  </tr>
+  <tr>
+      <td>페이지 주소</td>
+      <td><a href="http://kidcatnyantopia.net/works/javascript/nyanBaseball/index.html">바로가기</a></td>
+      <td>GitHub 주소</td>
+      <td><a href="https://github.com/Nonwhiskerscat/nyan_baseball">바로가기</a></td>
+  </tr>
+  <tr>
+      <td>사용 Tool</td>
+      <td colspan="3">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+        <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
+    </td>
+  </tr>
+</table>
+</div>
+J-Query를 일절 사용하지 않고 오직 바닐라 자바스크립트 만으로 숫자 야구 게임을 제작하였고, 기존 룰에서 점수 계산, 상점 기능을 추가하여 재미를 한 층 더 높였습니다.
+
+<hr>
 
 #### Kidcat 5X5 Game
 <div align="center">
   <img src="https://user-images.githubusercontent.com/114633489/217247127-2b09367e-0b2e-4397-af18-0be7026e3cdb.png">
 </div>
+<div align="center">
+<table>
+  <tr>
+    <td>프로젝트 명</td>
+    <td colspan="3">바닐라 자바스크립트를 활용한 5X5 Tic Tac Toe 게임 제작</td>
+  </tr>
+  <tr>
+    <td>작업 인원</td>
+    <td>1명</td>
+    <td>기여도</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+      <td>기간</td>
+      <td>2022.01.12 ~ 2022.01.19</td>
+      <td>지원 기기</td>
+      <td>320px 이상 기기 모두 지원</td>
+  </tr>
+  <tr>
+      <td>페이지 주소</td>
+      <td><a href="http://kidcatnyantopia.net/works/javascript/kidcat5X5game/index.html">바로가기</a></td>
+      <td>GitHub 주소</td>
+      <td><a href="https://github.com/Nonwhiskerscat/kidcat5X5game">바로가기</a></td>
+  </tr>
+  <tr>
+      <td>사용 Tool</td>
+      <td colspan="3">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+    </td>
+  </tr>
+</table>
+</div>
+
+퍼스널 아이덴티티 캐릭터와 일러스트를 적절히 활용하여 디자인 하였고, 3X3 TIC-TAC-TOE 게임판을 5X5 형식으로 업그레이드 하였고 가상의 객체를 하나 내세워 승패가 결정되도록 하는 프로그램을 개발하였습니다.
+
+<hr>
 
 #### Nyan Diamond
 <div align="center">
   <img src="https://user-images.githubusercontent.com/114633489/217247138-2bddcaa4-112b-46aa-9512-e54914405ed4.png">
 </div>
+<div align="center">
+<table>
+  <tr>
+    <td>프로젝트 명</td>
+    <td colspan="3">바닐라 자바스크립트를 활용한 다이아몬드 전용 키오스크 제작</td>
+  </tr>
+  <tr>
+    <td>작업 인원</td>
+    <td>1명</td>
+    <td>기여도</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+      <td>기간</td>
+      <td>2023.??.?? ~ 2023.??.??</td>
+      <td>지원 기기</td>
+      <td>320px 이상 기기 모두 지원</td>
+  </tr>
+  <tr>
+      <td>페이지 주소</td>
+      <td>Coming Soon...</td>
+      <td>GitHub 주소</td>
+      <td><a href="https://github.com/Nonwhiskerscat/NyanDiamond">바로가기</a></td>
+  </tr>
+  <tr>
+      <td>사용 Tool</td>
+      <td colspan="3">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+        <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
+    </td>
+  </tr>
+</table>
+</div>
+
+바닐라 자바 스크립트를 활용하여 4차 산업 스마트 시대에 가장 많이 사용하며 재화 구매 가격을 기반으로 한 거스름돈을 계산할 수 있는 키오스크를 구현하였고, 그 중에서 국내에 존재하지 않는 다이아몬드 키오스크를 신박하게 제작하였습니다.
+
+<hr>
 
 ### React, Nodejs
 #### To Do List
