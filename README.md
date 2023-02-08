@@ -930,6 +930,57 @@ React를 활용하여 유키가미 노와 프로필 페이지를 Clone Coding하
 <div align="center">
   <img src="https://user-images.githubusercontent.com/114633489/217247151-70b59fab-5fdb-4b64-a569-41918ebb6b94.png">
 </div>
+<div align="center">
+<table>
+  <tr>
+    <td>프로젝트 명</td>
+    <td colspan="3">프로필 페이지 "Kidcat Nyantopia" 제작</td>
+  </tr>
+  <tr>
+    <td>작업 인원</td>
+    <td>1명</td>
+    <td>기여도</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+      <td>기간</td>
+      <td>2022.10.13 ~ 2022.11.17</td>
+      <td>지원 기기</td>
+      <td>너비 320px 이하 혹은 높이 480px 이하 기기 지원 불가능</td>
+  </tr>
+  <tr>
+      <td>페이지 주소</td>
+      <td>
+        <a href="http://kidcatnyantopia.net/">
+          <img src="https://img.shields.io/badge/website-e87d9e?style=for-the-badge&logo=Weblate&logoColor=000620">
+        </a>
+      </td>
+      <td>GitHub 주소</td>
+      <td>
+        <a href="https://github.com/Nonwhiskerscat/Kidcat_Nyantopia">
+          <img src="https://img.shields.io/badge/GitHub-000620?style=for-the-badge&logo=github&logoColor=e87d9e">
+        </a>
+      </td>
+  </tr>
+  <tr>
+      <td>사용 Tool</td>
+      <td colspan="3">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><br>
+        <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+        <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
+        <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
+    </td>
+  </tr>
+</table>
+</div>
+
+지금까지 했던 포트폴리오를 모아 놓은 제 프로필 사이트입니다. 일반적인 포트폴리오와 달리 개성적인 요소를 부각시키기 위해 캐릭터를 삽입하였으며, 바닐라 자바스크립트 코딩으로 자바스크립트의 역량이 다소 높다는 것을 강조하며 제작했습니다.
+
+<hr>
 
 ## Contact Me
 <div align="center">
