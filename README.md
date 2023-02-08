@@ -1,5 +1,5 @@
 # Nonwhiskerscat(수염없냥)
-![ooo](https://user-images.githubusercontent.com/114633489/217462811-adf0af5d-f057-4fbb-98fa-eb9efc9addc8.png)
+![ooo](https://user-images.githubusercontent.com/114633489/217463418-47da68f4-888d-444b-984a-4b174892c4b6.png)
 
 안녕하십니까, 저의 페이지에 방문하신 것을 진심으로 환영합니다.<br>저는 웹 디자이너, 웹 퍼블리셔, 프론트 엔드 개발자를 넘어 백엔드 개발까지, 풀스택 개발자의 꿈을 꾸며 매일 발전하고 있는 개발자 김서용입니다. 지금부터 저에 대해 간략히 설명하겠습니다.
 
