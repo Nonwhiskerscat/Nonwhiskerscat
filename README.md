@@ -482,6 +482,56 @@ function pj_kitty_ani(neko) {
 ## Portfolios
 ### UX 디자인
 #### 국내 최초 시험 단체접수 플랫폼, 티티
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/114633489/217452273-977b005c-3785-47e0-9b35-50ad880dcbbc.png">
+</div>
+<div align="center">
+<table>
+  <tr>
+    <td>프로젝트 명</td>
+    <td colspan="3">국내 최초 시험 단체 접수 플랫폼 티티 디자인 및 시연</td>
+  </tr>
+  <tr>
+    <td>작업 인원</td>
+    <td>1명</td>
+    <td>기여도</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+      <td>기간</td>
+      <td>2022.04.20 ~ 2022.06.13</td>
+      <td>지원 기기</td>
+      <td>모바일</td>
+  </tr>
+  <tr>
+      <td>페이지 주소</td>
+      <td>
+        <a href="https://xd.adobe.com/view/8f94d5b5-06d2-4ff9-9334-dcfc13863f4a-dac7/">
+          <img src="https://img.shields.io/badge/website-D9E5B2?style=for-the-badge&logo=Weblate&logoColor=003C05">
+        </a>
+      </td>
+      <td>기획서 파일</td>
+      <td>
+        <a href="https://github.com/Nonwhiskerscat/Nonwhiskerscat/files/10682607/tt_proposal.pdf">
+          <img src="https://img.shields.io/badge/Download-003C05?style=for-the-badge&logo=Files&logoColor=D9E5B2">
+        </a>
+      </td>
+  </tr>
+  <tr>
+      <td>사용 Tool</td>
+      <td colspan="3">
+        <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+        <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
+        <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
+        <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+    </td>
+  </tr>
+</table>
+</div>
+
+국내 최초 시험 단체접수 앱 플랫폼을 개발하여 홀로 시험을 준비하는 수험생 혹은 시험 준비생들에게도 단체 접수 할인 혜택을 받게 하고자 하여 이 앱을 기획하고 디자인 했습니다. ~~제작 당시에는 html을 사용하지 못했고 존재 여부도 몰랐으니... 디자인 과정에서만 정체되었다는 사실은 안 비밀~~
+
+<hr>
 
 ### 페이지 리뉴얼
 
@@ -638,7 +688,7 @@ function pj_kitty_ani(neko) {
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><br>
         <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
         <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
     </td>
