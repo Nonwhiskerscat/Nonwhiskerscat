@@ -744,7 +744,7 @@ J-Query를 일절 사용하지 않고 오직 바닐라 자바스크립트 만으
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><br>
         <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
         <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
     </td>
@@ -761,16 +761,169 @@ J-Query를 일절 사용하지 않고 오직 바닐라 자바스크립트 만으
 <div align="center">
   <img src="https://user-images.githubusercontent.com/114633489/217247163-4f639b91-d14b-4f39-be48-12d890206bee.png">
 </div>
+<div align="center">
+<table>
+  <tr>
+    <td>프로젝트 명</td>
+    <td colspan="3">리액트 앱을 활용한 To Do List 제작</td>
+  </tr>
+  <tr>
+    <td>작업 인원</td>
+    <td>1명</td>
+    <td>기여도</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+      <td>기간</td>
+      <td>2022.12.25 ~ 2022.12.31</td>
+      <td>지원 기기</td>
+      <td>390px 이상 모든 기기 지원</td>
+  </tr>
+  <tr>
+      <td>페이지 주소</td>
+      <td>
+        <a href="https://nyantodolist.github.io/">
+          <img src="https://img.shields.io/badge/website-333333?style=for-the-badge&logo=Weblate&logoColor=fff">
+        </a>
+      </td>
+      <td>GitHub 주소</td>
+      <td>
+        <a href="https://github.com/Nonwhiskerscat/todolist">
+          <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=fff">
+        </a>
+      </td>
+  </tr>
+  <tr>
+      <td>사용 Tool</td>
+      <td colspan="3">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><br>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+        <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
+        <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+    </td>
+  </tr>
+</table>
+</div>
+
+React-App 플랫폼을 기반으로 Todolist를 제작하여 일정 추가, 체크, 삭제, 수정 기능을 구현하였고 이 외에 Date 객체를 활용하여 자정까지 남은 시간을 계산하는 기능도 첨가하였습니다.
+
+<hr>
 
 #### To DO App
 <div align="center">
   <img src="https://user-images.githubusercontent.com/114633489/217247159-54faac13-376b-40f7-996e-48a3310175be.png">
 </div>
+<div align="center">
+<table>
+  <tr>
+    <td>프로젝트 명</td>
+    <td colspan="3">Nodejs, MongoDB를 활용한 To Do App 제작</td>
+  </tr>
+  <tr>
+    <td>작업 인원</td>
+    <td>1명</td>
+    <td>기여도</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+      <td>기간</td>
+      <td>2022.01.08 ~ 2022.01.12</td>
+      <td>지원 기기</td>
+      <td>390px 이상 모든 기기 지원</td>
+  </tr>
+  <tr>
+      <td>페이지 주소</td>
+      <td>
+        <a href="https://axiostester.github.io/">
+          <img src="https://img.shields.io/badge/website-333333?style=for-the-badge&logo=Weblate&logoColor=fff">
+        </a>
+      </td>
+      <td>GitHub 주소</td>
+      <td>
+        <a href="https://github.com/Nonwhiskerscat/todoapp">
+          <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=fff">
+        </a>
+      </td>
+  </tr>
+  <tr>
+      <td>사용 Tool</td>
+      <td colspan="3">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    </td>
+  </tr>
+</table>
+</div>
+
+Node.js를 활용하여 기능마다 링크를 부여하였고, MongoDB를 활용하여 데이터 베이스에 저장된 데이터를 직접 조작할 수 있도록 App을 제작하였습니다. 그리고 SQL에 저장 되지 않은 ID/PW에 대해서는 로그인이 되지 않는 기능도 구현해봤습니다.
+
+<hr>
 
 #### 유키가미 노와 클론코딩
 <div align="center">
   <img src="https://user-images.githubusercontent.com/114633489/217247168-f811a278-1416-420b-9341-30ba2bbccef6.png">
 </div>
+
+<div align="center">
+<table>
+  <tr>
+    <td>프로젝트 명</td>
+    <td colspan="3">리액트 앱을 활용한 Yukigami Nowa 클론 코딩</td>
+  </tr>
+  <tr>
+    <td>작업 인원</td>
+    <td>1명</td>
+    <td>기여도</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+      <td>기간</td>
+      <td>2023.??.?? ~ 2023.??.??</td>
+      <td>지원 기기</td>
+      <td>320px 이상 모든 기기 지원</td>
+  </tr>
+  <tr>
+      <td>페이지 주소</td>
+      <td>
+        <a href="#">
+          <img src="https://img.shields.io/badge/coming soon-F998E4?style=for-the-badge&logo=AdBlock&logoColor=ffffff">
+        </a>
+      </td>
+      <td>GitHub 주소</td>
+      <td>
+        <a href="https://github.com/Nonwhiskerscat/yukigaminowa">
+          <img src="https://img.shields.io/badge/GitHub-CFF3FA?style=for-the-badge&logo=github&logoColor=F998E4">
+        </a>
+      </td>
+  </tr>
+  <tr>
+      <td>사용 Tool</td>
+      <td colspan="3">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><br>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+        <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+        <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+        <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"> 
+    </td>
+  </tr>
+</table>
+</div>
+
+React를 활용하여 유키가미 노와 프로필 페이지를 Clone Coding하였고, 리덕스 및 라우터 기능을 활용하여 실제 웹 사이트에 접속한 것처럼 구현하였습니다.
+
+<hr>
 
 ### 프로필 페이지
 #### Kidcat Nyantopia
