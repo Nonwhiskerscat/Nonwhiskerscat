@@ -35,7 +35,7 @@
     - [유키가미 노와 클론코딩](#유키가미-노와-클론코딩)
   - [프로필-페이지](#프로필-페이지)
     - [Kidcat Nyantopia](#kidcat-nyantopia)
-- [Contact Me](#contact-me)
+- [Conclusion](#conclusion)
 
 ## About Me
 ### 기본 정보
@@ -1032,7 +1032,7 @@ React를 활용하여 유키가미 노와 프로필 페이지를 Clone Coding하
 
 <hr>
 
-##Contact Me
-<form>
-</form>
+##Conclusion
+![md_footer](https://user-images.githubusercontent.com/114633489/217474872-f4aa3e25-f0b1-46d5-be9b-4ad4dd4b2706.png)
 
+~~여기까지 긴 글을 읽어 줘서 고맙다냥!~~ 지금까지 저의 글을 읽어 주셔서 대단히 감사드립니다. 사실 저도 개발은 6개월 이전 부터 시작했고, 그 전에는 HTML, CSS, Javascript 존재 조차 몰랐습니다. 농담 같지만 이건 실화입니다... 사실 1년 전까지만 해도 저는 애니메이션을 전공했고, 웹 디자인도 살짝 건드려 본 정도가 전부였으며, 이 마저도 제대로 하지 못해 강점을 어필하지 못했습니다. 늦게 시작한 개발이지만, 흥미를 갖게 되었고, 결국 지금... 프론트 엔드 개발자를 넘어 개발자의 최고 지위인 풀스택 개발자를 노리고 있습니다. 아 제 이야기가 길어졌네요... 중간 중간에 궁금한 점이 있거나 이야기 하고 싶은 것들이 있으면 nonwhiskerscat@gmail.com으로 메일 보내십시오. 친절하게 답변하겠습니다.
