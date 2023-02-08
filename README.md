@@ -511,7 +511,11 @@ function pj_kitty_ani(neko) {
       <td>페이지 주소</td>
       <td><a href="http://kidcatnyantopia.net/works/pages/newKopc/index.html">바로가기</a></td>
       <td>GitHub 주소</td>
-      <td><a href="https://github.com/Nonwhiskerscat/newKOPC">바로가기</a></td>
+      <td>
+        <a href="https://github.com/Nonwhiskerscat/newKOPC">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </td>
   </tr>
   <tr>
       <td>사용 Tool</td>
