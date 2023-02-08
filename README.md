@@ -509,11 +509,15 @@ function pj_kitty_ani(neko) {
   </tr>
   <tr>
       <td>페이지 주소</td>
-      <td><a href="http://kidcatnyantopia.net/works/pages/newKopc/index.html">바로가기</a></td>
+      <td>
+        <a href="http://kidcatnyantopia.net/works/pages/newKopc/index.html">
+          <img src="https://img.shields.io/badge/website-e7a335?style=for-the-badge&logo=Weblate&logoColor=333333">
+        </a>
+      </td>
       <td>GitHub 주소</td>
       <td>
         <a href="https://github.com/Nonwhiskerscat/newKOPC">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+          <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=e7a335">
         </a>
       </td>
   </tr>
@@ -558,9 +562,17 @@ function pj_kitty_ani(neko) {
   </tr>
   <tr>
       <td>페이지 주소</td>
-      <td><a href="http://kidcatnyantopia.net/works/pages/fairmontHotel/index.html">바로가기</a></td>
+      <td>
+        <a href="http://kidcatnyantopia.net/works/pages/fairmontHotel/index.html">
+          <img src="https://img.shields.io/badge/website-fefdf0?style=for-the-badge&logo=Weblate&logoColor=333333">
+        </a>
+      </td>
       <td>GitHub 주소</td>
-      <td><a href="https://github.com/Nonwhiskerscat/Fairmont_Ambassador_Seoul">바로가기</a></td>
+      <td>
+        <a href="https://github.com/Nonwhiskerscat/Fairmont_Ambassador_Seoul">
+          <img src="https://img.shields.io/badge/GitHub-422d13?style=for-the-badge&logo=github&logoColor=fefdf0">
+        </a>
+      </td>
   </tr>
   <tr>
       <td>사용 Tool</td>
@@ -608,9 +620,17 @@ function pj_kitty_ani(neko) {
   </tr>
   <tr>
       <td>페이지 주소</td>
-      <td><a href="http://kidcatnyantopia.net/works/javascript/nyanBaseball/index.html">바로가기</a></td>
+      <td>
+        <a href="http://kidcatnyantopia.net/works/javascript/nyanBaseball/index.html">
+          <img src="https://img.shields.io/badge/website-579434?style=for-the-badge&logo=Weblate&logoColor=FFF000">
+        </a>
+      </td>
       <td>GitHub 주소</td>
-      <td><a href="https://github.com/Nonwhiskerscat/nyan_baseball">바로가기</a></td>
+      <td>
+        <a href="https://github.com/Nonwhiskerscat/nyan_baseball">
+          <img src="https://img.shields.io/badge/GitHub-FFF000?style=for-the-badge&logo=github&logoColor=579434">
+        </a>
+      </td>
   </tr>
   <tr>
       <td>사용 Tool</td>
@@ -653,9 +673,17 @@ J-Query를 일절 사용하지 않고 오직 바닐라 자바스크립트 만으
   </tr>
   <tr>
       <td>페이지 주소</td>
-      <td><a href="http://kidcatnyantopia.net/works/javascript/kidcat5X5game/index.html">바로가기</a></td>
+      <td>
+        <a href="http://kidcatnyantopia.net/works/javascript/kidcat5X5game/index.html">
+          <img src="https://img.shields.io/badge/website-FCF8AC?style=for-the-badge&logo=Weblate&logoColor=e87d9e">
+        </a>
+      </td>
       <td>GitHub 주소</td>
-      <td><a href="https://github.com/Nonwhiskerscat/kidcat5X5game">바로가기</a></td>
+      <td>
+        <a href="https://github.com/Nonwhiskerscat/kidcat5X5game">
+          <img src="https://img.shields.io/badge/GitHub-e87d9e?style=for-the-badge&logo=github&logoColor=FCF8AC">
+        </a>
+      </td>
   </tr>
   <tr>
       <td>사용 Tool</td>
@@ -698,9 +726,17 @@ J-Query를 일절 사용하지 않고 오직 바닐라 자바스크립트 만으
   </tr>
   <tr>
       <td>페이지 주소</td>
-      <td>Coming Soon...</td>
+      <td>
+        <a href="#">
+          <img src="https://img.shields.io/badge/coming soon-fff?style=for-the-badge&logo=AdBlock&logoColor=000">
+        </a>
+      </td>
       <td>GitHub 주소</td>
-      <td><a href="https://github.com/Nonwhiskerscat/NyanDiamond">바로가기</a></td>
+      <td>
+        <a href="https://github.com/Nonwhiskerscat/NyanDiamond">
+          <img src="https://img.shields.io/badge/GitHub-CFF3FA?style=for-the-badge&logo=github&logoColor=000">
+        </a>
+      </td>
   </tr>
   <tr>
       <td>사용 Tool</td>
