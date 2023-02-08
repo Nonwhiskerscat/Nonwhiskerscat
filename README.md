@@ -1032,13 +1032,3 @@ React를 활용하여 유키가미 노와 프로필 페이지를 Clone Coding하
 
 <hr>
 
-## Contact Me
-<div align="center">
-<table>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-</div>
-
