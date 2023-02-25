@@ -1,9 +1,8 @@
 # Nonwhiskerscat(수염없냥)
 ![ooo](https://user-images.githubusercontent.com/114633489/217463418-47da68f4-888d-444b-984a-4b174892c4b6.png)
 
-<div width="100%" display="flex" valign="center">
+<div width="100%" display="flex" align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=Nonwhiskerscat&thide_border=true&locale=ko&date_format=M%20j%5B%2C%20Y%5D">
-  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nonwhiskerscat&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact">
 </div>
 <br>
 
