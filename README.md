@@ -51,7 +51,7 @@
 <table>
   <tr>
     <td rowspan="5">
-      <img width= '250px', src="https://user-images.githubusercontent.com/114633489/217235975-ccb70f00-ffed-4833-a4cf-7595f3dbd783.png">
+      <img width= '250px', src="https://user-images.githubusercontent.com/114633489/221565430-9c3f6880-891f-48c2-b6aa-3d866c36eec6.png">
     </td>
     <td align="center">이름</td>
     <td>김서용</td>
