@@ -1,4 +1,4 @@
-# Nonwhiskerscat(수염없냥)
+# Nonwhiskerscat(키드캣)
 ![ooo](https://user-images.githubusercontent.com/114633489/217463418-47da68f4-888d-444b-984a-4b174892c4b6.png)
 
 <div width="100%" display="flex" align="center">
@@ -95,7 +95,7 @@
 > <h3>:notebook:&nbsp&nbsp&nbsp2021.12.17</h3> GTQid 인디자인 1급<br>
 
 #### 코딩 관련
-> <h3>:computer:&nbsp&nbsp&nbsp2023.??.??</h3> 2023.XX 웹디자인 기능사(접수 기한을 놓쳤다고 한다...)<br>
+> <h3>:computer:&nbsp&nbsp&nbsp2023.??.??</h3> 2023.XX 웹디자인 기능사(드디어 필기 시험 접수했다 ...)<br>
 > <h3>:pager:&nbsp&nbsp&nbsp2023.??.??</h3> 2024.XX 정보처리 기사(취업 후 차차 공부할 예정)<br>
 
 #### 그 외
