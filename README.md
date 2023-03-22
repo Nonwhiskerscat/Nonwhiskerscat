@@ -75,7 +75,7 @@
   <tr>
     <td align="center">프로필 사진</td>
     <td align="center">좋아하는 것</td>
-    <td>고양이, 자바스크립트 코딩, 요아소비, 나나오아카리, 날치알</td> 
+    <td>고양이, <a href="https://www.yoasobi-music.jp/">요아소비<a>, <a href="https://www.nanawoakari.com/">나나오아카리</a>, <a href="http://honeyworks.jp/">HoneyWorks</a>, <a href="http://nowayukigami.com/">雪上のわ</a></td> 
   </tr>
 
 </table>
@@ -95,8 +95,8 @@
 > <h3>:notebook:&nbsp&nbsp&nbsp2021.12.17</h3> GTQid 인디자인 1급<br>
 
 #### 코딩 관련
-> <h3>:computer:&nbsp&nbsp&nbsp2023.??.??</h3> 2023.XX 웹디자인 기능사(드디어 필기 시험 접수했다 ...)<br>
-> <h3>:pager:&nbsp&nbsp&nbsp2023.??.??</h3> 2024.XX 정보처리 기사(취업 후 차차 공부할 예정)<br>
+> <h3>:computer:&nbsp&nbsp&nbsp2023.??.??</h3> 2023.XX 웹디자인 기능사(드디어 필기 시험 접수했다 ... 4월 9일 파이팅!)<br>
+> <h3>:pager:&nbsp&nbsp&nbsp2023.??.??</h3> 2024.XX 정보처리 기사(취업 후 차차 공부할 예정, 4월 17일 접수 아자아자!!)<br>
 
 #### 그 외
 > <h3>:u6708:&nbsp&nbsp&nbsp2021.12.16</h3> 한자교육실력평가원(구 진흥회) 한자 2급<br>
