@@ -71,7 +71,7 @@
   </tr>
   <tr>
     <td align="center">MBTI</td>
-    <td>ISFP(인간고양이형 :cat2::cat2::cat2::cat2::cat2:)</td> 
+    <td>ISTP~ISFP(T하고 F 왔다 갔다)</td> 
   </tr>
   <tr>
     <td align="center">프로필 사진</td>
