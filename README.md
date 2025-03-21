@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td align="center">휴대폰</td>
-    <td>+82)10-9084-9222<br>(장난 전화 시 경찰서 견학 + 관람료는 발신자 부담, No exceptions for Foreigners!)</td> 
+    <td>+82)10-7118-9222<br>(장난 전화 시 경찰서 견학 + 관람료는 발신자 부담, No exceptions for Foreigners!)</td> 
   </tr>
   <tr>
     <td align="center">MBTI</td>
@@ -94,7 +94,7 @@
   
 > <h3>:office:&nbsp&nbsp&nbsp동아닷컴</h3>
 > <h4>2023.04 ~ 재직 중</h4>
-> <p>CTS팀 사원</p>
+> <p>뉴스테크팀 사원</p>
 
 
 ### 자격증
