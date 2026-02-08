@@ -109,8 +109,8 @@
 
 #### 그 외
 > <h3>:u6708:&nbsp&nbsp&nbsp2021.12.16</h3> 한자교육실력평가원(구 진흥회) 한자 2급<br>
-> <h3>🏮&nbsp&nbsp&nbsp2025.08.25</h3> JLPT N2 146<br>
-> <h3>🗻&nbsp&nbsp&nbsp2026.01.30</h3> JLPT N1 120<br>
+> <h3>🏮&nbsp&nbsp&nbsp2025.08.25</h3> JLPT N2<br>
+> <h3>🗻&nbsp&nbsp&nbsp2026.01.30</h3> JLPT N1<br>
 
 ### 수상 경력
 > <h3>:trophy:&nbsp&nbsp&nbsp2023.01.30</h3> 영등포 방송정보국제교육원 UI/UX기반웹퍼블리싱&프론트엔드 과정 성적우수자<br>
