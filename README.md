@@ -105,11 +105,12 @@
 > <h3>:notebook:&nbsp&nbsp&nbsp2021.12.17</h3> GTQid 인디자인 1급<br>
 
 #### 코딩 관련
-> <h3>:computer:&nbsp&nbsp&nbsp2023.??.??</h3> 2023.XX 웹디자인 기능사(드디어 필기 시험 접수했다 ... 4월 9일 파이팅!)<br>
-> <h3>:pager:&nbsp&nbsp&nbsp2023.??.??</h3> 2024.XX 정보처리 기사(취업 후 차차 공부할 예정, 4월 17일 접수 아자아자!!)<br>
+> <h3>:computer:&nbsp&nbsp&nbsp2023.09.13</h3>웹디자인 기능사<br>
 
 #### 그 외
 > <h3>:u6708:&nbsp&nbsp&nbsp2021.12.16</h3> 한자교육실력평가원(구 진흥회) 한자 2급<br>
+> <h3>🏮&nbsp&nbsp&nbsp2025.08.25</h3> JLPT N2 146<br>
+> <h3>🗻&nbsp&nbsp&nbsp2021.12.16</h3> JLPT N1 120<br>
 
 ### 수상 경력
 > <h3>:trophy:&nbsp&nbsp&nbsp2023.01.30</h3> 영등포 방송정보국제교육원 UI/UX기반웹퍼블리싱&프론트엔드 과정 성적우수자<br>
